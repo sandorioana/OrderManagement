@@ -1,0 +1,16 @@
+Bill with no.1
+ 
+Your order has been registered and it is being processed.
+ 
+Delivery addreess: Alba Iulia
+ 
+Personal data:
+Andrei
+0745374628
+ 
+Product to deliver:
+paine Price: 3 lei
+Quantity:5
+Total Price: 15 lei
+ 
+We thank you for choosing us Andrei. Have a nice day!

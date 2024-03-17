@@ -1,0 +1,16 @@
+Bill with no.9
+ 
+Your order has been registered and it is being processed.
+ 
+Delivery addreess: Zalau
+ 
+Personal data:
+Diana
+0756384735
+ 
+Product to deliver:
+paine Price: 3 lei
+Quantity:2
+Total Price: 6 lei
+ 
+We thank you for choosing us Diana. Have a nice day!
